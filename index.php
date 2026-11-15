@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Contoh Website PHP | Guru TKJ</title>
+    <title>Website PHP</title>
     <meta charset="UTF-8">
     <meta name="description" contents="Guru TKJ">
     <link rel="stylesheet" href="style.css" type="text/css">
